@@ -9,7 +9,8 @@ The desired solution achived by summing both solutions.
 This code has been tested with Python 3.10 (on google colab interface).
 
 Clone the repository
-git clone --depth=1 https://github.com/QingyongHu/RandLA-Net && cd RandLA-Net
+git clone --depth=1 https://github.com/FinalProjectEEE/FinalProject && cd FinalProject
+
 Setup python environment
 conda create -n randlanet python=3.10
 source activate randlanet
