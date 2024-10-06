@@ -11,8 +11,6 @@ print('path: ' + path)
 
 Then in the following block of code insert (in line 16) the name on the desired input image that stored in the above folder location you inserted:
 
-# Upload Image
-
 bgr_image = cv2.imread('YOUR_IMAGE_NAME.png')
 rgb_image = cv2.cvtColor(bgr_image, cv2.COLOR_BGR2RGB)
 plt.imshow(rgb_image, cmap='gray')
