@@ -32,8 +32,13 @@ From now on the processing will be on the chromatic part of the source image:
 ![Diffused percived Y](https://github.com/user-attachments/assets/85e3953c-946a-4125-a756-625d0ac9a218)
 
 ![BY Diffusion profile](https://github.com/user-attachments/assets/9a273dfe-9adb-44bf-866d-956b794392a8)
+![BY - different alphas](https://github.com/user-attachments/assets/ca009d78-593f-4979-b04a-9f363cde00f9)
+
 ![RG Diffusion profile](https://github.com/user-attachments/assets/4a8419d6-b57d-41c0-90cb-fbef697159e4)
+![RG - different alphas](https://github.com/user-attachments/assets/9e6a1f39-461e-48f9-8c48-2abef92362d4)
+
 ![Y Diffusion profile](https://github.com/user-attachments/assets/dae5a526-b79e-4289-a452-ae6a15d64ae9)
+![Y - different alphas](https://github.com/user-attachments/assets/5b079206-42f5-4879-ab05-56e20bc3b822)
 
 ![Image With Diffusion](https://github.com/user-attachments/assets/96f3b4d3-5992-459e-8b9d-5e16960806c0)
 
