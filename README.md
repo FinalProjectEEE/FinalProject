@@ -5,7 +5,7 @@ The project implements the Neon Color Illusion effect by the following steps:
 ![DiffusionAlgorithem](https://github.com/user-attachments/assets/0412bd70-2dbb-4bec-8a1e-fea7c44b4626)
 The desired solution achived by summing both solutions.
 
-(1) Setup
+Setup:
 This code has been tested with Python 3.10 (on google colab interface).
 
 Clone the repository
