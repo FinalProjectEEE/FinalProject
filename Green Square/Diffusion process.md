@@ -6,8 +6,8 @@
 ![Diffused RG](https://github.com/user-attachments/assets/5ee55925-7716-4e0e-8639-c66676130a9e)
 ![Diffused Y](https://github.com/user-attachments/assets/fa33ae8a-a25c-42c1-818a-a7399f408203)
 
-![Diffusion profile BY](https://github.com/user-attachments/assets/061e39c7-b730-4208-8d4c-56d5c4abde7c)
-![Diffusion profile - RG](https://github.com/user-attachments/assets/36038317-6068-4240-a55d-bad7cca5e195)
-![Diffusion profile - Y](https://github.com/user-attachments/assets/a3fb36ca-19ba-4923-a38a-f950eee8cdc5)
+![Diffusion profile - BY](https://github.com/user-attachments/assets/7c0392ab-9808-4482-bf2b-a2852bbb1715)
+![Diffusion profile - RG](https://github.com/user-attachments/assets/fb340661-e9d6-420a-8b37-57948738731b)
+![Diffusion profile - Y](https://github.com/user-attachments/assets/f3b18737-c775-4aae-9459-f9958e062e26)
 
 ![Source Image With Diffusion](https://github.com/user-attachments/assets/497faf65-eeec-4a94-868c-99f3d746b87f)
