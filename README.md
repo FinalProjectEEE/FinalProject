@@ -4,3 +4,14 @@ The project implements the Neon Color Illusion effect by the following steps:
 ![OrthogonalCompletionAlgorithem](https://github.com/user-attachments/assets/1fbd50a8-bf09-455a-b5cf-56c58c5d40bb)
 ![DiffusionAlgorithem](https://github.com/user-attachments/assets/0412bd70-2dbb-4bec-8a1e-fea7c44b4626)
 The desired solution achived by summing both solutions.
+
+(1) Setup
+This code has been tested with Python 3.10 (on google colab interface).
+
+Clone the repository
+git clone --depth=1 https://github.com/QingyongHu/RandLA-Net && cd RandLA-Net
+Setup python environment
+conda create -n randlanet python=3.10
+source activate randlanet
+pip install -r helper_requirements.txt
+sh compile_op.sh
