@@ -7,7 +7,13 @@
 ![Diffused Y](https://github.com/user-attachments/assets/fa33ae8a-a25c-42c1-818a-a7399f408203)
 
 ![Diffusion profile - BY](https://github.com/user-attachments/assets/7c0392ab-9808-4482-bf2b-a2852bbb1715)
+![BY - different alphas](https://github.com/user-attachments/assets/367c81e9-1404-4759-8f2b-05ccad5310e0)
+
 ![Diffusion profile - RG](https://github.com/user-attachments/assets/fb340661-e9d6-420a-8b37-57948738731b)
+![RG - different alphas](https://github.com/user-attachments/assets/4d30506a-e636-4113-a059-d2ea024fb983)
+
 ![Diffusion profile - Y](https://github.com/user-attachments/assets/f3b18737-c775-4aae-9459-f9958e062e26)
+![Y - different alphas](https://github.com/user-attachments/assets/33c4e874-f1ab-45e7-a0a1-d40f6574fff7)
+
 
 ![Source Image With Diffusion](https://github.com/user-attachments/assets/497faf65-eeec-4a94-868c-99f3d746b87f)
